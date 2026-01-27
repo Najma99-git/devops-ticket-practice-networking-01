@@ -34,3 +34,8 @@ Command used:
 traceroute example.com
 Reason: The command was used to trace the hops of the network from my location to the website. 
 zsh: command not found: tracepath
+
+
+
+
+This project simulates a real DevOps networking ticket investigation.
