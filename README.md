@@ -1,4 +1,4 @@
-# devops-ticket-practice-networking-01
+devops-ticket-practice-networking-01
 New project
 DNS Resoulution
 Command used:
